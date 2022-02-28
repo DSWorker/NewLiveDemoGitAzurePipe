@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewLiveDemoGitAzurePipe1", "NewLiveDemoGitAzurePipe1\NewLiveDemoGitAzurePipe1.csproj", "{E8465460-0757-4EC1-B255-10A04D53A165}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8465460-0757-4EC1-B255-10A04D53A165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8465460-0757-4EC1-B255-10A04D53A165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8465460-0757-4EC1-B255-10A04D53A165}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8465460-0757-4EC1-B255-10A04D53A165}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99712070-5D90-4E9A-83E5-78C134E940D6}
+	EndGlobalSection
+EndGlobal
